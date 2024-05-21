@@ -1,0 +1,6 @@
+@wowapi_HostAddress = http://localhost:5215
+
+GET {{wowapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
